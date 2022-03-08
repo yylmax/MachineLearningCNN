@@ -8,3 +8,4 @@ The choice of number of epochs is based on the experiment output(accuracy stops 
 Hyperparameter tuning includes changes in batch size, different model optimizer and learning rate, droupout layers, etc.
 
 Final ouptput is considerable since limited datas are provided to the model. 
+dataset link: https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types
